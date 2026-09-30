@@ -1,0 +1,70 @@
+{
+ "id": "d1a-how-i-launched",
+ "slides": [
+  {
+   "kicker": "Solo dev story",
+   "h1": "I shipped my first iOS app to the <em>App Store.</em>",
+   "lead": "Here's the whole process \u2014 from idea to \u201cReady for Distribution.\u201d",
+   "foot": "How I launched"
+  },
+  {
+   "kicker": "01 \u00b7 The problem",
+   "h2": "I live in a tower with hundreds of neighbors.<br><em>I knew none of them.</em>",
+   "lead": "The only \u201ccommunity\u201d was a WhatsApp group nobody read, an email nobody opened, and a notice board nobody looked at."
+  },
+  {
+   "kicker": "02 \u00b7 The build",
+   "h2": "Build the smallest thing that <em>solves it.</em>",
+   "points": [
+    [
+     "\u2192",
+     "One core loop: find your building, post, meet your neighbors"
+    ],
+    [
+     "\u2192",
+     "Everything else goes on a \u201clater\u201d list"
+    ],
+    [
+     "\u2192",
+     "Ship it, then listen"
+    ]
+   ]
+  },
+  {
+   "kicker": "03 \u00b7 App Review",
+   "h2": "Rejected <em>7 times.</em> Approved after <em>2 months.</em>",
+   "points": [
+    [
+     "1",
+     "Terms &amp; Conditions"
+    ],
+    [
+     "2",
+     "Privacy Policy"
+    ],
+    [
+     "3",
+     "Account deletion \u2014 it has to work inside the app"
+    ]
+   ]
+  },
+  {
+   "theme": "dark",
+   "kicker": "04 \u00b7 Approval",
+   "h1": "\u201cReady for <em>Distribution.\u201d</em>",
+   "lead": "After 7 rejections, those three words hit different."
+  },
+  {
+   "kicker": "05 \u00b7 The lesson",
+   "h2": "Launch day isn't the finish line.<br><em>It's the start line.</em>",
+   "lead": "Now comes the hard part: getting real people to download it."
+  },
+  {
+   "theme": "blue",
+   "kicker": "The app",
+   "h1": "It's called Nabor.",
+   "lead": "A community app for the people in your building. Live on the App Store now.",
+   "cta": "Follow to watch me grow it from 0 \u2192"
+  }
+ ]
+}

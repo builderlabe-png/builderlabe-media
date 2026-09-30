@@ -1,0 +1,9 @@
+{"id":"d1c-offline-marketing","slides":[
+ {"kicker":"How I'm marketing my app","h1":"Everyone's on TikTok.<br><em>I'm putting flyers in elevators.</em>","foot":"Offline growth"},
+ {"kicker":"Why offline?","h2":"My users are literally <em>in the lobby.</em>","lead":"My app is for residents of the same building. So instead of fighting the algorithm, I'm going where they physically are."},
+ {"kicker":"The plan","big":"42","h2":"buildings. <em>One area first.</em>","lead":"A pilot in Dubai Marina before touching Business Bay, JLT or DSO."},
+ {"kicker":"Why a pilot?","points":[["1","Test the flyer on a small batch"],["2","See what actually converts"],["3","Fix it — then scale what works"]]},
+ {"kicker":"The flyer","h2":"One promise. One QR code. <em>Zero friction.</em>","lead":"QR goes straight to the App Store. And a clear line saying it's an independent app — not building management."},
+ {"kicker":"Stacking channels","points":[["→","Flyers in the buildings"],["→","Apple Search Ads (new-advertiser credit)"],["→","This account, documenting all of it"]]},
+ {"theme":"dark","kicker":"Next","h2":"I'll share the results — <em>good or bad.</em>","cta":"Follow to see if it works →"}
+]}
