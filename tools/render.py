@@ -59,7 +59,7 @@ ul.pts li b {{ color:var(--blue); font-weight:800; min-width:44px; }}
 def tweet_html(t):
     paras = "".join(f"<p>{x}</p>" for x in t["text"])
     return f"""<div class="tweet"><div class="tw-head"><div class="av">b<span>.</span></div>
-    <div><div class="nm">Abdo · builderlabe</div><div class="hd">@builderlabe</div></div></div>
+    <div><div class="nm">Boud · builderlabe</div><div class="hd">@builderlabe</div></div></div>
     <div class="tw-text">{paras}</div>
     <div class="tw-meta"><span>{t.get('meta','9:41 AM · Oct 2026')}</span></div></div>"""
 
