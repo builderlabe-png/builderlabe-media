@@ -1,0 +1,9 @@
+{"id":"d2c-bad-workarounds","slides":[
+ {"kicker":"How I found my startup idea","h1":"Good startup ideas <em>already have bad workarounds.</em>","foot":"Startup lessons"},
+ {"kicker":"The problem","h2":"In big towers, <em>nobody knows their neighbors.</em>","lead":"Hundreds of people under one roof. Almost zero connection."},
+ {"kicker":"What people already try","h2":"The workarounds <em>don't work.</em>","points":[["1","WhatsApp groups"],["2","Emails"],["3","Notice boards"]]},
+ {"kicker":"The signal","h2":"People are already trying. <em>The tools just don't fit.</em>","lead":"When people hack together a fix, the need is real. That gap is your opening."},
+ {"kicker":"So I built one","h2":"One app. <em>One building.</em>","lead":"A community app just for residents of the same building. Meet neighbors, organize meetups, help each other."},
+ {"kicker":"Steal this","points":[["1","Look for messy workarounds"],["2","Ask why they keep failing"],["3","Build the thing that actually fits"]]},
+ {"theme":"dark","kicker":"Your turn","h2":"What problem do you keep <em>hacking around?</em>","cta":"Drop it in the comments →"}
+]}
