@@ -1,0 +1,54 @@
+{
+ "id": "d3c-search-ads-credit",
+ "slides": [
+  {
+   "kicker": "Marketing my app",
+   "h1": "Testing Apple Search Ads <em>without burning cash.</em>",
+   "lead": "What I'm doing as a brand-new advertiser.",
+   "foot": "App marketing"
+  },
+  {
+   "kicker": "01 · Free money first",
+   "h2": "New advertisers can get <em>starting credit.</em>",
+   "lead": "I'm using mine to test the waters before spending my own money."
+  },
+  {
+   "kicker": "02 · Why Search Ads",
+   "h2": "You show up <em>right when they search.</em>",
+   "lead": "People typing in the App Store already want an app. That's the warmest traffic you'll get."
+  },
+  {
+   "kicker": "03 · Keep it tight",
+   "points": [
+    [
+     "1",
+     "Start with a few exact-match keywords"
+    ],
+    [
+     "2",
+     "Split brand, category and competitor terms"
+    ],
+    [
+     "3",
+     "Target only the region you serve"
+    ]
+   ]
+  },
+  {
+   "kicker": "04 · Watch the right number",
+   "h2": "Cost per install <em>beats impressions.</em>",
+   "lead": "Views feel good. Installs are what actually count."
+  },
+  {
+   "kicker": "05 · Treat it like a test",
+   "h2": "Credit is a lab, <em>not a strategy.</em>",
+   "lead": "Learn which keywords convert, then decide if it's worth real budget."
+  },
+  {
+   "theme": "blue",
+   "kicker": "Your turn",
+   "h2": "Tried Apple Search Ads? <em>What worked?</em>",
+   "cta": "Tell me in the comments →"
+  }
+ ]
+}

@@ -1,0 +1,9 @@
+{"id":"d3a-build-in-public","slides":[
+ {"kicker":"Solo dev lessons","h1":"Why I'm building my app <em>in public.</em>","lead":"Posting the wins, the rejections and everything in between.","foot":"Building in public"},
+ {"kicker":"01 · Distribution","h2":"Shipping is easy. <em>Getting seen is hard.</em>","lead":"An app nobody hears about doesn't exist. Posting the journey gives people a reason to look."},
+ {"kicker":"02 · Accountability","h2":"Saying it out loud <em>makes you finish it.</em>","lead":"It's harder to quietly drop a feature when people are watching you build it."},
+ {"kicker":"03 · Feedback","h2":"Strangers spot problems <em>you can't see.</em>","lead":"You're too close to your own product. Fresh eyes are free QA."},
+ {"kicker":"04 · Trust","h2":"People back builders <em>they've watched grow.</em>","lead":"By launch day, your followers already know the story."},
+ {"kicker":"How to start","points":[["1","Share what you shipped this week"],["2","Post the failures too — rejections included"],["3","Show real screens, not just wins"],["4","Stay consistent > go viral"]]},
+ {"theme":"dark","kicker":"Follow along","h2":"I'm documenting <em>the whole journey.</em>","cta":"Follow @builderlabe →"}
+]}

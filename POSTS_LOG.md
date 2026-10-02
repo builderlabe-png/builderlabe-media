@@ -6,3 +6,6 @@ One line per post so future batches don't repeat topics. Only "LIVE" or "SCHEDUL
 - 2026-10-02 10:00 — carousel — How I launched my first iOS app (7 rejections / 2 months → approval → Nabor reveal) — names Nabor — SCHEDULED (moved from Oct 1, never went live then)
 - 2026-10-02 13:00 — tweet mockup — "Shipping my app felt like the finish line… distribution is the real game" — no Nabor — SCHEDULED (moved from Oct 1)
 - 2026-10-02 18:00 — carousel — Startup idea: good ideas already have bad workarounds (towers, WhatsApp/emails/notice boards) — "my app", no Nabor — SCHEDULED
+- 2026-10-03 10:00 — carousel — Why I'm building my app in public (distribution, accountability, feedback, trust + how to start) — "my app", no Nabor — SCHEDULED
+- 2026-10-03 13:00 — tweet carousel — Unpopular opinions after shipping my first app (ship embarrassed, finishing > ideas, stack doesn't matter, market where users are, building with my brother) — no Nabor — SCHEDULED
+- 2026-10-03 18:00 — carousel — Testing Apple Search Ads with new-advertiser credit (exact match, split keywords, CPI > impressions) — "my app", no Nabor — SCHEDULED
