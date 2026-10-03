@@ -1,0 +1,9 @@
+{"id":"d4c-cold-start","slides":[
+ {"kicker":"Startup lessons","h1":"The cold-start problem <em>of a neighbor app.</em>","lead":"Why I'm growing Nabor one building at a time.","foot":"Building Nabor"},
+ {"kicker":"The idea","h2":"Nabor connects people <em>in the same building.</em>","lead":"Meet your neighbors, organize meetups, help each other out. Live on the App Store in the UAE."},
+ {"kicker":"The catch","h2":"A neighbor app is empty <em>without your neighbors.</em>","lead":"One user per tower = nothing to see. The app only gets useful when the building shows up."},
+ {"kicker":"The fix","h2":"Go deep, <em>not wide.</em>","lead":"Better a few buildings that feel alive than a whole city that feels empty."},
+ {"kicker":"What that looks like","points":[["1","Pilot in ~42 Dubai Marina buildings"],["2","Flyers with QR codes, right where residents live"],["3","Business Bay, JLT and DSO come after"]]},
+ {"kicker":"The lesson","h2":"If your app needs a crowd, <em>pick a small room.</em>","lead":"Density first. Expansion second."},
+ {"theme":"blue","kicker":"Your turn","h2":"Do you know <em>your neighbors?</em>","cta":"Tell me in the comments →"}
+]}

@@ -9,3 +9,6 @@ One line per post so future batches don't repeat topics. Only "LIVE" or "SCHEDUL
 - 2026-10-03 10:00 — carousel — Why I'm building my app in public (distribution, accountability, feedback, trust + how to start) — "my app", no Nabor — SCHEDULED
 - 2026-10-03 13:00 — tweet carousel — Unpopular opinions after shipping my first app (ship embarrassed, finishing > ideas, stack doesn't matter, market where users are, building with my brother) — no Nabor — SCHEDULED
 - 2026-10-03 18:00 — carousel — Testing Apple Search Ads with new-advertiser credit (exact match, split keywords, CPI > impressions) — "my app", no Nabor — SCHEDULED
+- 2026-10-04 10:00 — carousel — 3 things to fix before you hit Submit (terms & conditions, privacy policy, in-app account deletion; 7 rejections) — "my app", no Nabor — SCHEDULED
+- 2026-10-04 13:00 — tweet carousel — Things I'd tell myself before building my first app (distribution first, lead with problem, tiny market, rejections = checklist, share while messy) — no Nabor — SCHEDULED
+- 2026-10-04 18:00 — carousel — The cold-start problem of a neighbor app (go deep not wide, ~42 Marina buildings pilot, density first) — names Nabor — SCHEDULED

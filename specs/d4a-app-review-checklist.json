@@ -1,0 +1,9 @@
+{"id":"d4a-app-review-checklist","slides":[
+ {"kicker":"App Store lessons","h1":"3 things to fix <em>before</em> you hit Submit.","lead":"Apple rejected my app 7 times. Mostly for these.","foot":"App Review"},
+ {"big":"7×","h2":"Rejected in <em>~2 months.</em>","lead":"Not for bugs. Not for design. For the boring stuff most devs leave for last."},
+ {"kicker":"01 · Terms & conditions","h2":"Users post stuff? <em>You need rules.</em>","lead":"If people can share content or message each other, Apple wants clear terms — and a way to report and block."},
+ {"kicker":"02 · Privacy policy","h2":"A real policy, <em>not a placeholder.</em>","lead":"Link it in App Store Connect and inside the app. It should match what your app actually collects."},
+ {"kicker":"03 · Account deletion","h2":"Sign up in the app? <em>Delete in the app.</em>","lead":"If users can create an account, they need to be able to delete it from inside the app too."},
+ {"kicker":"Before you submit","points":[["1","Terms written and linked"],["2","Privacy policy live and accurate"],["3","Delete account button that works"],["4","Read every rejection note slowly"]]},
+ {"theme":"dark","kicker":"Save this","h2":"Boring work <em>ships apps.</em>","cta":"Follow @builderlabe →"}
+]}
