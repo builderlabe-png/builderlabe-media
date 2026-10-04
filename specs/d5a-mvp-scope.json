@@ -1,0 +1,10 @@
+{"id":"d5a-mvp-scope","slides":[
+ {"kicker":"Solo-dev lessons","h1":"Your MVP is <em>too big.</em>","lead":"How to cut it down so you actually ship.","foot":"Solo dev"},
+ {"kicker":"The trap","h2":"\"Just one more feature\" <em>is how apps die.</em>","lead":"Every extra screen is another week. Another thing to fix. Another reason not to launch."},
+ {"kicker":"01 · One problem","h2":"Write the problem <em>in one sentence.</em>","lead":"If a feature doesn't help solve that sentence, it waits."},
+ {"kicker":"02 · One core loop","h2":"Find the one action <em>users repeat.</em>","lead":"Build that loop first. Make it work end to end. Everything else is decoration."},
+ {"kicker":"03 · Cut the nice-to-haves","h2":"Settings, themes, badges? <em>Later.</em>","lead":"Nobody leaves your app because dark mode isn't there on day one."},
+ {"kicker":"04 · Don't cut the boring stuff","h2":"Terms, privacy, <em>account deletion.</em>","lead":"These aren't optional on the App Store. Budget time for them from the start."},
+ {"kicker":"Quick test","points":[["1","Does it solve the one problem?"],["2","Can a user finish the core loop?"],["3","Will Apple approve it?"],["4","Yes to all three? Ship it."]]},
+ {"theme":"dark","kicker":"Save this","h2":"Small and live <em>beats big and perfect.</em>","cta":"Follow @builderlabe →"}
+]}

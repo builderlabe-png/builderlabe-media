@@ -12,3 +12,6 @@ One line per post so future batches don't repeat topics. Only "LIVE" or "SCHEDUL
 - 2026-10-04 10:00 — carousel — 3 things to fix before you hit Submit (terms & conditions, privacy policy, in-app account deletion; 7 rejections) — "my app", no Nabor — SCHEDULED
 - 2026-10-04 13:00 — tweet carousel — Things I'd tell myself before building my first app (distribution first, lead with problem, tiny market, rejections = checklist, share while messy) — no Nabor — SCHEDULED
 - 2026-10-04 18:00 — carousel — The cold-start problem of a neighbor app (go deep not wide, ~42 Marina buildings pilot, density first) — names Nabor — SCHEDULED
+- 2026-10-05 10:00 — carousel — Your MVP is too big (one problem, one core loop, cut nice-to-haves, don't cut terms/privacy/deletion, quick ship test) — no Nabor — SCHEDULED
+- 2026-10-05 13:00 — tweet mockup (single) — "Hardest part isn't the code, it's the first download from someone who isn't friends/family" — no Nabor — SCHEDULED
+- 2026-10-05 18:00 — carousel — Your App Store page is a landing page (problem on screenshot #1, show core action, plain subtitle, match Search Ads keywords) — no Nabor — SCHEDULED

@@ -1,0 +1,10 @@
+{"id":"d5c-app-store-page","slides":[
+ {"theme":"blue","kicker":"App Store lessons","h1":"Your App Store page <em>is a landing page.</em>","lead":"Treat it like one.","foot":"App Store"},
+ {"kicker":"The reality","h2":"Most people decide <em>in seconds.</em>","lead":"They see your icon, name and first screenshots. That's usually it. Make those count."},
+ {"kicker":"01 · Lead with the problem","h2":"First screenshot = <em>why it matters.</em>","lead":"Not your login screen. Show the pain your app removes, in a few big words."},
+ {"kicker":"02 · Show the core action","h2":"Then show <em>how it works.</em>","lead":"One screenshot per key action. Real screens, short captions."},
+ {"kicker":"03 · Subtitle does work","h2":"Say what it is <em>in plain words.</em>","lead":"Your subtitle should tell a stranger what the app does and who it's for."},
+ {"kicker":"04 · Match your ads","h2":"Your page <em>should match your keywords.</em>","lead":"If you run Search Ads, people land here with an intent. Make the page answer it fast."},
+ {"kicker":"Checklist","points":[["1","Clear icon and name"],["2","Problem on screenshot #1"],["3","Plain-English subtitle"],["4","Captions you can read on a phone"]]},
+ {"theme":"dark","kicker":"Save this","h2":"Great apps <em>still need a great page.</em>","cta":"Follow @builderlabe →"}
+]}
