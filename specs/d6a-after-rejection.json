@@ -1,0 +1,10 @@
+{"id":"d6a-after-rejection","slides":[
+ {"kicker":"App Review lessons","h1":"Rejected by Apple? <em>Do this next.</em>","lead":"I got rejected ~7 times. Here's the playbook I wish I had.","foot":"App Store"},
+ {"kicker":"First","h2":"A rejection <em>isn't a verdict.</em>","lead":"It's a to-do list from the person who decides if you launch. Treat it like one."},
+ {"kicker":"01 · Read the guideline","h2":"Find the <em>exact rule</em> they cited.","lead":"Open the guideline number in the message. Read the whole section, not just the line they quoted."},
+ {"kicker":"02 · Fix the whole category","h2":"Don't patch <em>just one screen.</em>","lead":"If they flag privacy, check every privacy-related screen. Otherwise you'll be back next week."},
+ {"kicker":"03 · Ask if it's unclear","h2":"Reply to the reviewer. <em>Politely.</em>","lead":"You can message them in App Store Connect. A clear question beats a guess and another round."},
+ {"kicker":"04 · Help the next reviewer","h2":"Use the <em>review notes.</em>","lead":"Add a demo account and say where things are. \"Account deletion: Settings → Delete account.\""},
+ {"kicker":"05 · Resubmit fast","h2":"Momentum <em>matters.</em>","lead":"Fix, test, resubmit the same day if you can. Every round is a lesson you don't need twice."},
+ {"theme":"dark","kicker":"Save this","h2":"Rejections are part of <em>shipping.</em>","cta":"Follow @builderlabe →"}
+]}
