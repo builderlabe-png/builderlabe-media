@@ -1,0 +1,10 @@
+{"id":"d7c-flyer-that-gets-scanned","slides":[
+ {"kicker":"Marketing my app","h1":"How to make a flyer <em>people actually scan.</em>","lead":"I'm marketing my app with QR flyers. Here's what matters on that piece of paper.","foot":"Offline marketing"},
+ {"kicker":"Why paper?","h2":"Go where your users <em>physically are.</em>","lead":"My users live in the same building. The lobby and the lift beat any feed."},
+ {"kicker":"01 · Lead with the problem","h2":"Not your logo. <em>Their pain.</em>","lead":"\"Don't know your neighbors?\" stops people. An app name nobody knows yet doesn't."},
+ {"kicker":"02 · One promise","h2":"One line on <em>what they get.</em>","lead":"If it takes a paragraph to explain, it won't get read in a lift."},
+ {"kicker":"03 · One big QR","h2":"Make scanning <em>effortless.</em>","lead":"Big code, high contrast, straight to the App Store page. No landing page in between."},
+ {"kicker":"04 · Track it","h2":"One QR code <em>per location.</em>","lead":"Use a different link per building, so you know which places actually work."},
+ {"kicker":"05 · Get help","h2":"You don't have to <em>hand them out yourself.</em>","lead":"A distribution vendor can cover many buildings while you keep building."},
+ {"theme":"blue","kicker":"Your turn","h2":"Would you scan <em>a flyer in your lobby?</em>","cta":"Tell me in the comments →"}
+]}

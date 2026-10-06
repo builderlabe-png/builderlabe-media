@@ -18,3 +18,6 @@ One line per post so future batches don't repeat topics. Only "LIVE" or "SCHEDUL
 - 2026-10-06 10:00 — carousel — Rejected by Apple? Do this next (read the cited guideline, fix the whole category, reply to reviewer, review notes, resubmit fast; ~7 rejections) — no Nabor — SCHEDULED
 - 2026-10-06 13:00 — tweet mockup (single) — "The day your app goes live you become a marketer who sometimes opens Xcode" — no Nabor — SCHEDULED
 - 2026-10-06 18:00 — carousel — Building a startup with my brother (one owner per area, write decisions down, argue about work not people, trust = speed) — names Nabor — SCHEDULED
+- 2026-10-07 10:00 — carousel — Solo dev rules (one ranked list, timebox features, boring tech, automate repeats, ship small, leave the editor for marketing/users) — no Nabor — SCHEDULED
+- 2026-10-07 13:00 — tweet mockup (single) — "Apple rejected my app ~7 times… every rejection was cheaper than a 1-star review from a real user" — no Nabor — SCHEDULED
+- 2026-10-07 18:00 — carousel — How to make a flyer people actually scan (lead with the problem, one promise, one big QR to App Store, one QR per building to track, use a distribution vendor) — "my app", no Nabor — SCHEDULED

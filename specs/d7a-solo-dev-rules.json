@@ -1,0 +1,10 @@
+{"id":"d7a-solo-dev-rules","slides":[
+ {"kicker":"Solo dev lessons","h1":"Building alone? <em>Steal these rules.</em>","lead":"No team, no manager, no standup. Here's what keeps a solo build moving.","foot":"Solo dev"},
+ {"kicker":"01 · One list","h2":"Rank work by <em>what users feel.</em>","lead":"One to-do list. Top item = the thing a real user would notice first. Not the fun refactor."},
+ {"kicker":"02 · Timebox it","h2":"Give every feature <em>a deadline.</em>","lead":"\"Done when it's perfect\" never ends. \"Done by Friday\" ships."},
+ {"kicker":"03 · Boring tech","h2":"Use what you <em>already know.</em>","lead":"Learning a new stack and launching a product at the same time is two projects."},
+ {"kicker":"04 · Automate the boring","h2":"If you do it twice, <em>script it.</em>","lead":"Builds, screenshots, release notes. Every minute saved goes back into the product."},
+ {"kicker":"05 · Ship small","h2":"Small updates <em>beat big releases.</em>","lead":"Smaller changes = smaller reviews, fewer bugs, faster feedback."},
+ {"kicker":"06 · Leave the editor","h2":"Code is only <em>half the job.</em>","lead":"Block time for marketing and talking to users. Nobody else is going to do it."},
+ {"theme":"dark","kicker":"Save this","h2":"Solo doesn't mean <em>slow.</em>","cta":"Follow @builderlabe →"}
+]}
