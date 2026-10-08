@@ -1,0 +1,8 @@
+{"id":"d8c-what-is-nabor","slides":[
+ {"theme":"blue","kicker":"Building in public","h1":"What I'm building: <em>Nabor.</em>","lead":"A community app for people who live in the same building.","foot":"Nabor"},
+ {"kicker":"The problem","h2":"Big towers. <em>Zero neighbors.</em>","lead":"Hundreds of people under one roof, and most don't know each other. WhatsApp groups, emails and notice boards don't fix it."},
+ {"kicker":"What it does","h2":"Three things, <em>one building.</em>","points":[["1","Connect with your neighbors"],["2","Organize meetups"],["3","Help each other out"]]},
+ {"kicker":"Why one building","h2":"Your neighbors, <em>not the whole city.</em>","lead":"The people you actually run into in the lift. That's who a building community is for."},
+ {"kicker":"Where it is","h2":"Live on <em>the App Store.</em>","lead":"Starting in the UAE: Dubai Marina first, then Business Bay, JLT and DSO."},
+ {"theme":"dark","kicker":"Building it in public","h2":"Follow along <em>while it grows.</em>","cta":"Follow @builderlabe →"}
+]}

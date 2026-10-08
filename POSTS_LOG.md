@@ -21,3 +21,6 @@ One line per post so future batches don't repeat topics. Only "LIVE" or "SCHEDUL
 - 2026-10-07 10:00 — carousel — Solo dev rules (one ranked list, timebox features, boring tech, automate repeats, ship small, leave the editor for marketing/users) — no Nabor — SCHEDULED
 - 2026-10-07 13:00 — tweet mockup (single) — "Apple rejected my app ~7 times… every rejection was cheaper than a 1-star review from a real user" — no Nabor — SCHEDULED
 - 2026-10-07 18:00 — carousel — How to make a flyer people actually scan (lead with the problem, one promise, one big QR to App Store, one QR per building to track, use a distribution vendor) — "my app", no Nabor — SCHEDULED
+- 2026-10-09 10:00 — carousel — How to talk to users without pitching (ask about the past, find the workaround, talk less, don't defend, ask "who else?") — no Nabor — SCHEDULED
+- 2026-10-09 13:00 — tweet mockup (single) — "A big tower holds hundreds of people… most couldn't tell you their neighbor's name. Not a people problem, a missing product" — no Nabor — SCHEDULED
+- 2026-10-09 18:00 — carousel — What I'm building: Nabor (problem, connect/meetups/help, why one building, live on App Store, Marina → Business Bay/JLT/DSO) — names Nabor — SCHEDULED
