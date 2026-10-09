@@ -24,3 +24,6 @@ One line per post so future batches don't repeat topics. Only "LIVE" or "SCHEDUL
 - 2026-10-09 10:00 — carousel — How to talk to users without pitching (ask about the past, find the workaround, talk less, don't defend, ask "who else?") — no Nabor — SCHEDULED
 - 2026-10-09 13:00 — tweet mockup (single) — "A big tower holds hundreds of people… most couldn't tell you their neighbor's name. Not a people problem, a missing product" — no Nabor — SCHEDULED
 - 2026-10-09 18:00 — carousel — What I'm building: Nabor (problem, connect/meetups/help, why one building, live on App Store, Marina → Business Bay/JLT/DSO) — names Nabor — SCHEDULED
+- 2026-10-10 10:00 — carousel — "I have nothing to post": what to share while building in public (the problem, decisions, setbacks, experiments, boring parts, ask a real question) — no Nabor — SCHEDULED
+- 2026-10-10 13:00 — tweet mockup (single) — "Used to think marketing starts when the app is done… code gets you into the App Store, distribution gets you out of it" — no Nabor — SCHEDULED
+- 2026-10-10 18:00 — carousel — App Store Connect stuff nobody warns you about (privacy labels, demo account, support URL, screenshot sizes, TestFlight beta review) — no Nabor — SCHEDULED

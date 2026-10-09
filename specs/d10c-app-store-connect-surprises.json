@@ -1,0 +1,9 @@
+{"id":"d10c-app-store-connect-surprises","slides":[
+ {"theme":"blue","kicker":"App Store lessons","h1":"App Store Connect stuff <em>nobody warns you about.</em>","lead":"The code was done. Then came the forms. Prep these before launch week.","foot":"App Store"},
+ {"kicker":"01 · Privacy labels","h2":"Your privacy label must <em>match your app.</em>","lead":"Apple asks what data you collect and why. Answer it honestly — and keep it in sync with your privacy policy."},
+ {"kicker":"02 · Demo account","h2":"Login wall? <em>Give the reviewer a way in.</em>","lead":"If the reviewer can't sign in, they can't review. Add working demo credentials."},
+ {"kicker":"03 · Support URL","h2":"Your support link <em>has to work.</em>","lead":"A real page with a real way to contact you. Not a placeholder."},
+ {"kicker":"04 · Screenshots","h2":"Plan screenshots <em>for every size.</em>","lead":"Apple asks for specific device sizes. Design them once, properly, before submission day."},
+ {"kicker":"05 · TestFlight","h2":"External testers <em>need a review too.</em>","lead":"Inviting people outside your team goes through beta review. Build in time for it."},
+ {"theme":"dark","kicker":"Save this","h2":"Launch week is paperwork week. <em>Start early.</em>","cta":"Follow @builderlabe →"}
+]}
