@@ -1,0 +1,9 @@
+{"id":"d11c-fake-app-review","slides":[
+ {"theme":"blue","kicker":"App Store lessons","h1":"Do a fake App Review <em>before the real one.</em>","lead":"Test your app the way a reviewer will. 20 minutes now can save you weeks.","foot":"App Review"},
+ {"kicker":"01 · Start from zero","h2":"Fresh install. <em>Brand-new account.</em>","lead":"Delete the app, reinstall, sign up like a stranger. No saved logins, no test data."},
+ {"kicker":"02 · Try to leave","h2":"Can you <em>delete your account</em> in the app?","lead":"Not by email. Not \"contact support.\" Find the button in under a minute."},
+ {"kicker":"03 · Tap every link","h2":"Privacy policy. Terms. <em>Support.</em>","lead":"Every one should open, load and match your app. Broken links get noticed."},
+ {"kicker":"04 · Break the network","h2":"Turn on <em>airplane mode.</em>","lead":"Empty states, errors, loading. A blank screen looks like a broken app."},
+ {"kicker":"05 · Read your listing","h2":"Does the app do <em>what the page says?</em>","lead":"Screenshots and description should show features that actually exist today."},
+ {"theme":"dark","kicker":"Save this","h2":"Apple rejected my app <em>~7 times.</em>","lead":"Mostly terms, privacy policy and account deletion. Check those twice.","cta":"Follow @builderlabe →"}
+]}

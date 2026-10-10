@@ -1,0 +1,43 @@
+{
+"id": "d11a-one-sentence-pitch",
+"slides": [
+{
+"kicker": "Startup lessons",
+"h1": "Explain your app in <em>one sentence.</em>",
+"lead": "If you can't, nobody else can either. Here's how I'd write it.",
+"foot": "Startup"
+},
+{
+"kicker": "01 · The 5-second test",
+"h2": "A stranger should get it <em>in 5 seconds.</em>",
+"lead": "Not \"interesting.\" Not \"so it's like…?\" They should be able to repeat it back."
+},
+{
+"kicker": "02 · The formula",
+"h2": "<em>Who</em> it's for. <em>What</em> hurts. <em>What</em> it lets them do.",
+"lead": "Three parts. Fill them in before you write a single tagline."
+},
+{
+"kicker": "03 · Be specific",
+"h2": "\"Everyone\" is <em>not a who.</em>",
+"lead": "\"People in the same apartment building\" beats \"communities.\" Small and clear wins."
+},
+{
+"kicker": "04 · Kill the buzzwords",
+"h2": "No \"platform.\" No <em>\"seamless.\"</em>",
+"lead": "Use the words your users use when they complain about the problem."
+},
+{
+"kicker": "05 · Use it everywhere",
+"h2": "Same sentence. <em>Every surface.</em>",
+"lead": "App Store subtitle. Flyer. Bio. Ads. Repetition is how people remember you."
+},
+{
+"theme": "dark",
+"kicker": "Try it",
+"h2": "Write yours <em>in the comments.</em>",
+"lead": "I'll tell you if I'd get it in 5 seconds.",
+"cta": "Follow @builderlabe →"
+}
+]
+}

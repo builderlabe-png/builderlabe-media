@@ -27,3 +27,6 @@ One line per post so future batches don't repeat topics. Only "LIVE" or "SCHEDUL
 - 2026-10-10 10:00 — carousel — "I have nothing to post": what to share while building in public (the problem, decisions, setbacks, experiments, boring parts, ask a real question) — no Nabor — SCHEDULED
 - 2026-10-10 13:00 — tweet mockup (single) — "Used to think marketing starts when the app is done… code gets you into the App Store, distribution gets you out of it" — no Nabor — SCHEDULED
 - 2026-10-10 18:00 — carousel — App Store Connect stuff nobody warns you about (privacy labels, demo account, support URL, screenshot sizes, TestFlight beta review) — no Nabor — SCHEDULED
+- 2026-10-11 10:00 — carousel — Explain your app in one sentence (5-second test, who/what hurts/what it does, be specific, kill buzzwords, same sentence everywhere) — no Nabor — SCHEDULED
+- 2026-10-11 13:00 — tweet carousel (6) — Marketing takes from a developer (marketing isn't cringe, consistency > talent, offline flyers work, small paid tests, posting = marketing, know who it's for on a map) — no Nabor — SCHEDULED
+- 2026-10-11 18:00 — carousel — Do a fake App Review before the real one (fresh install/new account, in-app account deletion, tap every link, airplane mode, listing matches app; ~7 rejections) — no Nabor — SCHEDULED
