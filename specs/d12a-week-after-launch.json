@@ -1,0 +1,9 @@
+{"id":"d12a-week-after-launch","slides":[
+ {"kicker":"Launch lessons","h1":"Your app is live. <em>Now what?</em>","lead":"Launch day isn't the finish line. Here's what to do in the week after.","foot":"Launch"},
+ {"kicker":"01 · Watch the first minute","h2":"Find where <em>new users drop off.</em>","lead":"Sign-up, first screen, first action. The biggest leak is almost always early."},
+ {"kicker":"02 · Reply to everyone","h2":"Every message, <em>every review.</em>","lead":"Your first users are doing you a favor. Answer them like it."},
+ {"kicker":"03 · Fix the boring bugs","h2":"Crashes first. <em>Features later.</em>","lead":"A new feature won't save someone who couldn't get past onboarding."},
+ {"kicker":"04 · Keep a notes file","h2":"Write down <em>their exact words.</em>","lead":"How users describe your app is better copy than anything you'll write."},
+ {"kicker":"05 · Keep marketing","h2":"Don't go <em>back into the editor.</em>","lead":"The launch spike fades fast. Distribution is a habit, not an event."},
+ {"theme":"dark","kicker":"Save this","h2":"Launch is <em>day one,</em> not the last day.","cta":"Follow @builderlabe →"}
+]}

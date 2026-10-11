@@ -1,0 +1,9 @@
+{"id":"d12c-content-system","slides":[
+ {"theme":"blue","kicker":"Building in public","h1":"Posting while building, <em>without burning out.</em>","lead":"You can't code all day and post all day. So build a system.","foot":"Build in public"},
+ {"kicker":"01 · Batch it","h2":"One session. <em>A week of posts.</em>","lead":"Context-switching kills both the code and the content. Do it in one block."},
+ {"kicker":"02 · One story, many formats","h2":"Turn one lesson into <em>three posts.</em>","lead":"A carousel, a tweet-style post, a quick story. Same idea, different angle."},
+ {"kicker":"03 · Schedule ahead","h2":"Let the queue <em>post for you.</em>","lead":"When it's scheduled, a busy week doesn't break your streak."},
+ {"kicker":"04 · Keep a log","h2":"Track what you've <em>already said.</em>","lead":"A simple list of topics stops you repeating yourself."},
+ {"kicker":"05 · Steal from your week","h2":"Your to-do list <em>is your content.</em>","lead":"The bug you fixed. The ad you tested. The rejection you got. Write it down."},
+ {"theme":"dark","kicker":"Save this","h2":"Consistency is <em>a system,</em> not willpower.","cta":"Follow @builderlabe →"}
+]}
