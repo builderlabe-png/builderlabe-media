@@ -1,0 +1,9 @@
+{"id":"d13a-onboarding-rules","slides":[
+ {"theme":"blue","kicker":"Solo dev lessons","h1":"Your onboarding is <em>your first impression.</em>","lead":"Most users decide in the first minute. Here's how not to lose them.","foot":"Onboarding"},
+ {"kicker":"01 · Ask less","h2":"Only ask for <em>what you need now.</em>","lead":"Every extra field is a reason to close the app. Collect the rest later."},
+ {"kicker":"02 · Show value first","h2":"Let them see <em>why it's worth it.</em>","lead":"Before the sign-up wall, show what's waiting on the other side."},
+ {"kicker":"03 · One screen, one job","h2":"Don't explain <em>every feature.</em>","lead":"Get them to the one action that matters. They'll find the rest."},
+ {"kicker":"04 · Permissions in context","h2":"Ask when it <em>makes sense.</em>","lead":"Notifications on launch? No. Right after they do something worth being notified about? Yes."},
+ {"kicker":"05 · Test with a stranger","h2":"Hand it to <em>someone new.</em>","lead":"Don't help. Don't explain. Every pause is a fix on your list."},
+ {"theme":"dark","kicker":"Save this","h2":"Fewer steps. <em>Faster value.</em>","cta":"Follow @builderlabe →"}
+]}

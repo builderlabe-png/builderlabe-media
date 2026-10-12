@@ -1,0 +1,9 @@
+{"id":"d13c-idea-worth-building","slides":[
+ {"kicker":"Startup lessons","h1":"5 signs your app idea is <em>worth building.</em>","lead":"Before you open Xcode, check these.","foot":"Startup"},
+ {"kicker":"01 · You've felt it","h2":"The problem <em>bugs you</em> personally.","lead":"You'll understand it better than anyone. And you won't quit when it gets boring."},
+ {"kicker":"02 · People hack around it","h2":"There's already <em>a bad workaround.</em>","lead":"Group chats, spreadsheets, notice boards. A workaround proves the need is real."},
+ {"kicker":"03 · You can name who it's for","h2":"Not \"everyone.\" <em>Someone specific.</em>","lead":"If you can't describe your first user in one line, you can't reach them."},
+ {"kicker":"04 · You can reach them","h2":"You know <em>where they are.</em>","lead":"A building, a community, a niche. If you can't find them, ads won't either."},
+ {"kicker":"05 · Small version works","h2":"It's useful <em>at tiny scale.</em>","lead":"If it only works with a million users, it'll never get its first hundred."},
+ {"theme":"dark","kicker":"Save this","h2":"Build for a problem, <em>not an idea.</em>","cta":"Follow @builderlabe →"}
+]}

@@ -33,3 +33,6 @@ One line per post so future batches don't repeat topics. Only "LIVE" or "SCHEDUL
 - 2026-10-12 10:00 — carousel — Your app is live, now what? Week after launch (find drop-off, reply to everyone, crashes before features, keep users' exact words, keep marketing) — no Nabor — SCHEDULED
 - 2026-10-12 13:00 — tweet mockup (single) — "Every feature you add is one you have to test, explain, support and get through App Review. Cutting is a feature too" — no Nabor — SCHEDULED
 - 2026-10-12 18:00 — carousel — Posting while building without burning out (batch it, one story many formats, schedule ahead, keep a topic log, your to-do list is content) — no Nabor — SCHEDULED
+- 2026-10-13 10:00 — carousel — Your onboarding is your first impression (ask less, show value first, one screen one job, permissions in context, test with a stranger) — no Nabor — SCHEDULED
+- 2026-10-13 13:00 — tweet mockup (single) — "Nobody downloads an app. They download a fix for something that annoyed them today. Sell the annoyance, not the app" — no Nabor — SCHEDULED
+- 2026-10-13 18:00 — carousel — 5 signs your app idea is worth building (you've felt it, bad workaround exists, specific user, you can reach them, works at tiny scale) — no Nabor — SCHEDULED
