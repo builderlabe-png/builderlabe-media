@@ -36,3 +36,6 @@ One line per post so future batches don't repeat topics. Only "LIVE" or "SCHEDUL
 - 2026-10-13 10:00 — carousel — Your onboarding is your first impression (ask less, show value first, one screen one job, permissions in context, test with a stranger) — no Nabor — SCHEDULED
 - 2026-10-13 13:00 — tweet mockup (single) — "Nobody downloads an app. They download a fix for something that annoyed them today. Sell the annoyance, not the app" — no Nabor — SCHEDULED
 - 2026-10-13 18:00 — carousel — 5 signs your app idea is worth building (you've felt it, bad workaround exists, specific user, you can reach them, works at tiny scale) — no Nabor — SCHEDULED
+- 2026-10-14 10:00 — carousel — Naming your app? Check these first (say it out loud, search the App Store, same handles everywhere, name isn't the pitch, short beats clever) — no Nabor — SCHEDULED
+- 2026-10-14 13:00 — tweet mockup (single) — "Solo dev trap: nobody is waiting for your app, so nobody tells you to stop polishing. Set a ship date, then cut until you hit it" — no Nabor — SCHEDULED
+- 2026-10-14 18:00 — carousel — Build a launch kit before you market (one sentence, one App Store link, a QR code, a first area, a way to measure + my kit: flyers/QR via vendor, ~42 Marina buildings, Search Ads, this account) — names Nabor — SCHEDULED

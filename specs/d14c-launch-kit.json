@@ -1,0 +1,69 @@
+{
+ "id": "d14c-launch-kit",
+ "slides": [
+  {
+   "theme": "blue",
+   "kicker": "Marketing my app",
+   "h1": "Before you market, <em>build a launch kit.</em>",
+   "lead": "Five things to have ready so day one isn't chaos.",
+   "foot": "Launch kit"
+  },
+  {
+   "kicker": "01 · One sentence",
+   "h2": "Who it's for. <em>What it fixes.</em>",
+   "lead": "You'll paste it everywhere: bio, flyer, ads, DMs."
+  },
+  {
+   "kicker": "02 · One link",
+   "h2": "Straight to <em>the App Store.</em>",
+   "lead": "No detours. One tap from \"interesting\" to \"downloading\"."
+  },
+  {
+   "kicker": "03 · A QR code",
+   "h2": "Offline needs <em>a door.</em>",
+   "lead": "Big, high contrast, and tested on a real phone before you print."
+  },
+  {
+   "kicker": "04 · A first area",
+   "h2": "Pick <em>where you start.</em>",
+   "lead": "One area, one kind of user. Win small before you go wide."
+  },
+  {
+   "kicker": "05 · A way to measure",
+   "h2": "Know <em>what's working.</em>",
+   "lead": "Separate links or QR codes per channel, so you see what actually brings installs."
+  },
+  {
+   "kicker": "Real example",
+   "h2": "My kit for <em>Nabor.</em>",
+   "points": [
+    [
+     "1",
+     "Problem: in big towers, nobody knows their neighbors"
+    ],
+    [
+     "2",
+     "Live on the App Store"
+    ],
+    [
+     "3",
+     "Flyers with QR codes via a distribution vendor"
+    ],
+    [
+     "4",
+     "Pilot: ~42 Dubai Marina buildings"
+    ],
+    [
+     "5",
+     "Apple Search Ads + this account"
+    ]
+   ]
+  },
+  {
+   "theme": "dark",
+   "kicker": "Save this",
+   "h2": "Ready kit. <em>Calmer launch.</em>",
+   "cta": "Follow @builderlabe →"
+  }
+ ]
+}

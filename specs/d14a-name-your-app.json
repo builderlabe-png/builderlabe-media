@@ -1,0 +1,9 @@
+{"id":"d14a-name-your-app","slides":[
+ {"theme":"blue","kicker":"Solo dev lessons","h1":"Naming your app? <em>Check these first.</em>","lead":"A name you can't say, search or own will cost you later.","foot":"Naming"},
+ {"kicker":"01 · Say it out loud","h2":"If you have to spell it, <em>it's too hard.</em>","lead":"People will hear it from a friend, not just read it."},
+ {"kicker":"02 · Search the App Store","h2":"Type it in <em>before you fall in love.</em>","lead":"If a big app owns the results, you'll fight for every install."},
+ {"kicker":"03 · Check the handles","h2":"Same name <em>everywhere.</em>","lead":"Instagram, domain, App Store. \"Close enough\" isn't enough."},
+ {"kicker":"04 · It's not the pitch","h2":"The name doesn't have to <em>explain the app.</em>","lead":"Your subtitle and first screenshot do that. The name just has to stick."},
+ {"kicker":"05 · Short beats clever","h2":"Easy to <em>remember tomorrow.</em>","lead":"If they can't recall it the next day, they can't find it."},
+ {"theme":"dark","kicker":"Save this","h2":"Easy to say. <em>Easy to find.</em>","cta":"Follow @builderlabe →"}
+]}
