@@ -1,0 +1,10 @@
+{"id":"d15a-app-store-reviews","slides":[
+ {"kicker":"App Store lessons","h1":"Getting App Store reviews <em>without being annoying.</em>","lead":"Ratings are social proof. Ask the right way.","foot":"App Store"},
+ {"kicker":"01 · Use Apple's prompt","h2":"Use the <em>built-in</em> review prompt.","lead":"requestReview / SKStoreReviewController. One tap, no leaving the app. Apple caps how often it shows."},
+ {"kicker":"02 · Timing","h2":"Ask right <em>after a win.</em>","lead":"When the user just got value from your app. Never on first launch."},
+ {"kicker":"03 · No custom popups","h2":"Skip the <em>\"Rate us!\" screen.</em>","lead":"Apple wants ratings to go through the system prompt. Don't risk App Review over it."},
+ {"kicker":"04 · Leave a door open","h2":"Add a <em>\"Rate the app\"</em> button.","lead":"Put it in settings. Link to your App Store page with ?action=write-review."},
+ {"kicker":"05 · Reply","h2":"Answer <em>every review.</em>","lead":"You can reply in App Store Connect. A calm answer to a bad review is public too."},
+ {"kicker":"06 · Listen","h2":"Reviews are <em>free bug reports.</em>","lead":"Same complaint twice? That's your next update."},
+ {"theme":"dark","kicker":"Save this","h2":"Ask at the right moment. <em>Earn the stars.</em>","cta":"Follow @builderlabe →"}
+]}

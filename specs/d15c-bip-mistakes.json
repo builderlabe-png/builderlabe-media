@@ -1,0 +1,9 @@
+{"id":"d15c-bip-mistakes","slides":[
+ {"theme":"blue","kicker":"Building in public","h1":"5 mistakes that make building in public <em>not work.</em>","lead":"Posting isn't enough. Avoid these.","foot":"Build in public"},
+ {"kicker":"01 · Highlights only","h2":"Only sharing <em>the wins.</em>","lead":"Setbacks are the posts people remember. Wins without context feel like ads."},
+ {"kicker":"02 · Wrong room","h2":"Posting only for <em>other builders.</em>","lead":"Devs are great company. But if your users aren't devs, some posts should speak to them."},
+ {"kicker":"03 · Rounded-up numbers","h2":"Real numbers <em>or none.</em>","lead":"Trust is the whole point. One inflated stat undoes months of posts."},
+ {"kicker":"04 · Disappearing","h2":"Going quiet <em>for weeks.</em>","lead":"It works through consistency. Schedule ahead so busy weeks don't break the streak."},
+ {"kicker":"05 · Never asking","h2":"No feedback, <em>no ask.</em>","lead":"Ask a question. Ask them to try it. An audience that's never asked never acts."},
+ {"theme":"dark","kicker":"Save this","h2":"Be honest. Be consistent. <em>Be useful.</em>","cta":"Follow @builderlabe →"}
+]}
