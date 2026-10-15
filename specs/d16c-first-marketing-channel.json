@@ -1,0 +1,10 @@
+{"id":"d16c-first-marketing-channel","slides":[
+ {"theme":"blue","kicker":"Marketing my app","h1":"How to pick your <em>first marketing channel.</em>","lead":"Not ten channels. One, done properly.","foot":"Marketing"},
+ {"kicker":"01 · Where are they?","h2":"Go where your users <em>already are.</em>","lead":"Physically or online. If your users live in one place, that place is a channel."},
+ {"kicker":"02 · Can you reach them?","h2":"Pick one you can <em>actually reach.</em>","lead":"With your time and budget. Not the one that worked for a big company."},
+ {"kicker":"03 · Can you measure it?","h2":"If you can't measure it, <em>you can't learn.</em>","lead":"Separate links, QR codes or campaigns, so you know what brought each install."},
+ {"kicker":"04 · Start small","h2":"Run a <em>small test first.</em>","lead":"A few buildings. A small ad budget. Learn before you scale."},
+ {"kicker":"05 · Give it time","h2":"Don't switch <em>after a week.</em>","lead":"Decide what \"working\" means, then give it enough time to find out."},
+ {"kicker":"What I picked","h2":"My app's <em>channels.</em>","points":[["1","Offline: flyers with QR codes in towers, via a distribution vendor"],["2","Pilot in ~42 Dubai Marina buildings first"],["3","Apple Search Ads, using new-advertiser credit"],["4","Building in public, right here"]]},
+ {"theme":"dark","kicker":"Save this","h2":"One channel. <em>Done properly.</em>","cta":"Follow @builderlabe →"}
+]}

@@ -1,0 +1,10 @@
+{"id":"d16a-account-deletion","slides":[
+ {"kicker":"App Review lessons","h1":"Account deletion <em>Apple will accept.</em>","lead":"One of the reasons my app got rejected. Here's what it needs.","foot":"App Review"},
+ {"kicker":"01 · Inside the app","h2":"Delete from <em>inside the app.</em>","lead":"If users can sign up in the app, they need to be able to delete their account in the app too."},
+ {"kicker":"02 · Easy to find","h2":"Don't <em>hide it.</em>","lead":"Settings → Account → Delete account. A reviewer should find it in seconds."},
+ {"kicker":"03 · Really delete","h2":"Delete, <em>don't just deactivate.</em>","lead":"\"Disable my account\" isn't the same thing. Remove the account and its data."},
+ {"kicker":"04 · No detours","h2":"Not <em>\"email us to delete.\"</em>","lead":"Sending people to email or a website as the only way usually won't pass."},
+ {"kicker":"05 · Be clear","h2":"Confirm once. <em>Explain what goes.</em>","lead":"One confirmation step, plain words about what gets deleted. No guilt trips."},
+ {"kicker":"06 · Help the reviewer","h2":"Point to it <em>in review notes.</em>","lead":"Give a demo account and the exact path to the delete button."},
+ {"theme":"dark","kicker":"Save this","h2":"Build it before you submit. <em>Not after the rejection.</em>","cta":"Follow @builderlabe →"}
+]}
