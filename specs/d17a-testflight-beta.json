@@ -1,0 +1,9 @@
+{"id":"d17a-testflight-beta","slides":[
+ {"kicker":"App Store lessons","h1":"Run a TestFlight beta <em>that teaches you something.</em>","lead":"Most betas end with \"looks good 👍\". Here's how to get more.","foot":"TestFlight"},
+ {"kicker":"01 · Right people","h2":"Invite people <em>with the problem.</em>","lead":"Friends who'd never use your app will be nice. Nice isn't useful."},
+ {"kicker":"02 · One task","h2":"Give them <em>one thing to do.</em>","lead":"\"Sign up and do the main action.\" A clear task beats \"try it out\"."},
+ {"kicker":"03 · Better question","h2":"Ask what <em>confused them.</em>","lead":"Not \"do you like it?\" Everyone says yes. Confusion is the real feedback."},
+ {"kicker":"04 · Watch where they stop","h2":"The drop-off <em>is the answer.</em>","lead":"Where people quit tells you more than anything they write back."},
+ {"kicker":"05 · Small loops","h2":"Fix. Push a build. <em>Ask again.</em>","lead":"Short rounds beat one giant beta that nobody finishes."},
+ {"theme":"dark","kicker":"Save this","h2":"A beta isn't a launch. <em>It's a lesson.</em>","cta":"Follow @builderlabe →"}
+]}

@@ -1,0 +1,9 @@
+{"id":"d17c-first-update","slides":[
+ {"theme":"blue","kicker":"Solo dev lessons","h1":"Shipping your first <em>app update.</em>","lead":"Launch is one release. Then you keep shipping. Check these first.","foot":"Updates"},
+ {"kicker":"01 · Old users first","h2":"Test the <em>upgrade path.</em>","lead":"Install the live version, then update over it. Fresh installs hide bugs."},
+ {"kicker":"02 · Same rules","h2":"Every update <em>goes through review.</em>","lead":"New screens still need to follow the guidelines. Leave time for it."},
+ {"kicker":"03 · Go slow","h2":"Use <em>phased release.</em>","lead":"Roll it out over a few days. If something breaks, you can pause."},
+ {"kicker":"04 · Real notes","h2":"Write \"What's New\" <em>for humans.</em>","lead":"\"Bug fixes and improvements\" says nothing. Name what changed."},
+ {"kicker":"05 · Stay close","h2":"Watch the first <em>48 hours.</em>","lead":"Crashes, reviews, messages. Be ready to ship a quick fix."},
+ {"theme":"dark","kicker":"Save this","h2":"Launch once. <em>Ship forever.</em>","cta":"Follow @builderlabe →"}
+]}

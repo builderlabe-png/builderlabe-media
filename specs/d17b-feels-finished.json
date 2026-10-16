@@ -1,0 +1,8 @@
+{"id":"d17b-feels-finished","slides":[
+ {"tweets":[{"text":["Small things that make an app feel finished 👇"],"meta":"1:00 PM · Oct 17, 2026"}]},
+ {"tweets":[{"text":["Empty states.","A blank screen looks broken.","Tell people what goes here and how to start."],"meta":"1:00 PM · Oct 17, 2026"}]},
+ {"tweets":[{"text":["Error messages in plain words.","\"Something went wrong\" helps nobody.","Say what happened and what to do next."],"meta":"1:00 PM · Oct 17, 2026"}]},
+ {"tweets":[{"text":["Loading states.","If it takes a second, show it.","Frozen screens feel like crashes."],"meta":"1:00 PM · Oct 17, 2026"}]},
+ {"tweets":[{"text":["Dark mode that actually works.","Check every screen, not just the home page."],"meta":"1:00 PM · Oct 17, 2026"}]},
+ {"tweets":[{"text":["None of this is a feature.","All of it decides whether people trust your app."],"meta":"1:00 PM · Oct 17, 2026"}]}
+]}
