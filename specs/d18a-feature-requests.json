@@ -1,0 +1,9 @@
+{"id":"d18a-feature-requests","slides":[
+ {"kicker":"Solo dev lessons","h1":"How to handle <em>feature requests</em> alone.","lead":"Once people use your app, the ideas start coming. Here's how to not drown.","foot":"Feature requests"},
+ {"kicker":"01 · Capture","h2":"Write down <em>every one.</em>","lead":"One list. Same place every time. Don't trust your memory."},
+ {"kicker":"02 · Dig","h2":"Find the problem <em>behind the ask.</em>","lead":"\"Add a chat\" might mean \"I can't reach anyone.\" Solve that, not the request."},
+ {"kicker":"03 · Count","h2":"Repeats <em>matter most.</em>","lead":"One loud person is one person. Five quiet ones asking the same thing is a signal."},
+ {"kicker":"04 · Filter","h2":"Does it fit <em>the core loop?</em>","lead":"If it doesn't make the main thing better, it waits. Even if it's a good idea."},
+ {"kicker":"05 · Reply","h2":"Say no <em>kindly.</em>","lead":"\"Not right now, here's why\" keeps people around. Silence doesn't."},
+ {"theme":"dark","kicker":"Save this","h2":"Listen to everyone. <em>Build for the pattern.</em>","cta":"Follow @builderlabe →"}
+]}

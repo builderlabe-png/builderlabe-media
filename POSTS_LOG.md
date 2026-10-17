@@ -48,3 +48,6 @@ One line per post so future batches don't repeat topics. Only "LIVE" or "SCHEDUL
 - 2026-10-17 10:00 — carousel — Run a TestFlight beta that teaches you something (invite people with the problem, one task, ask what confused them, watch drop-off, short fix/build loops) — no Nabor — SCHEDULED
 - 2026-10-17 13:00 — tweet carousel (6) — Small things that make an app feel finished (empty states, plain error messages, loading states, dark mode on every screen → trust) — no Nabor — SCHEDULED
 - 2026-10-17 18:00 — carousel — Shipping your first app update (test upgrade path, updates go through review, phased release, human "What's New", watch first 48h) — no Nabor — SCHEDULED
+- 2026-10-18 10:00 — carousel — How to handle feature requests alone (write every one down, find the problem behind the ask, repeats matter most, does it fit the core loop, say no kindly) — no Nabor — SCHEDULED
+- 2026-10-18 13:00 — tweet mockup (single) — "Nabor's biggest competitor isn't another app. It's the building WhatsApp group, the email nobody opens, the notice board. Your real competitor is whatever people already do today" — names Nabor — SCHEDULED
+- 2026-10-18 18:00 — carousel — Building in public with zero followers (bio says what you build, write for one person, reply more than you post, stick to a few topics, low numbers are normal) — no Nabor — SCHEDULED
