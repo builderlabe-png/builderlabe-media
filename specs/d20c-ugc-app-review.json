@@ -1,0 +1,9 @@
+{"id":"d20c-ugc-app-review","slides":[
+ {"kicker":"App Review","h1":"Users can post in your app? <em>Plan for this.</em>","lead":"Apple has a specific checklist for apps with user content.","foot":"Guideline 1.2"},
+ {"kicker":"01 · Rules","h2":"Terms that say <em>no abuse.</em>","lead":"Users agree to them before they can post. Make them easy to find."},
+ {"kicker":"02 · Report","h2":"A way to <em>report</em> content.","lead":"On every post, comment and profile. One or two taps, not a hunt."},
+ {"kicker":"03 · Block","h2":"A way to <em>block</em> people.","lead":"Someone bothering you should disappear from your feed. Instantly."},
+ {"kicker":"04 · Filter","h2":"A plan to <em>filter</em> and act fast.","lead":"Know who reviews reports and how quickly bad content comes down."},
+ {"kicker":"05 · Contact","h2":"Real <em>contact info</em> people can reach.","lead":"A support email or page that someone actually answers."},
+ {"theme":"blue","kicker":"Build it in","h2":"Safety isn't a feature you add later. <em>It's the base.</em>","lead":"Nabor is a community app for neighbors in the same building. Trust is the whole product.","cta":"Follow @builderlabe →"}
+]}

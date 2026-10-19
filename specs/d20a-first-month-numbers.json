@@ -1,0 +1,9 @@
+{"id":"d20a-first-month-numbers","slides":[
+ {"kicker":"After launch","h1":"5 numbers worth watching in <em>month one.</em>","lead":"Forget vanity stats. These tell you what to fix next.","foot":"Metrics"},
+ {"kicker":"01 · Source","h2":"Where each install <em>came from.</em>","lead":"Flyer, ad, post, friend. If you can't tell, you can't double down."},
+ {"kicker":"02 · Signup","h2":"How many finish <em>signing up.</em>","lead":"Installs mean nothing if people quit on screen two."},
+ {"kicker":"03 · Core action","h2":"Who does the <em>one thing</em> your app is for.","lead":"Not opens. Not taps. The action that actually solves the problem."},
+ {"kicker":"04 · Comeback","h2":"Who opens it <em>again</em> the next day.","lead":"One visit is curiosity. A second visit is the start of a habit."},
+ {"kicker":"05 · Cost","h2":"What one real user <em>costs you.</em>","lead":"Ad spend, printing, time. Divide by users who stuck, not installs."},
+ {"theme":"dark","kicker":"The rule","h2":"Track <em>few</em> numbers. Check them <em>weekly.</em>","lead":"Five honest numbers beat a dashboard you never open.","cta":"Follow @builderlabe →"}
+]}
