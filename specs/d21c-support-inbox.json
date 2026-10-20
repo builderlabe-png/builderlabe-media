@@ -1,0 +1,9 @@
+{"id":"d21c-support-inbox","slides":[
+ {"kicker":"Solo dev","h1":"Running support <em>alone</em> without drowning.","lead":"Your inbox is part of the product. Treat it like one.","foot":"Support"},
+ {"kicker":"01 · One place","h2":"One support email. <em>Everywhere.</em>","lead":"Same address in the app, the App Store page and your bio."},
+ {"kicker":"02 · Speed","h2":"Reply fast, <em>even if it's short.</em>","lead":"\"Got it, looking into it\" beats a perfect answer three days later."},
+ {"kicker":"03 · Templates","h2":"Save replies you <em>keep typing.</em>","lead":"Login help, account deletion, bug reports. Write them once."},
+ {"kicker":"04 · Log it","h2":"Every issue on <em>one list.</em>","lead":"The repeats tell you what to fix next."},
+ {"kicker":"05 · Close the loop","h2":"Tell people when <em>it's fixed.</em>","lead":"The person who reported a bug is your best early user. Treat them like it."},
+ {"theme":"blue","kicker":"The rule","h2":"Support isn't a distraction. <em>It's free user research.</em>","lead":"Every message is someone telling you exactly what's broken.","cta":"Follow @builderlabe →"}
+]}

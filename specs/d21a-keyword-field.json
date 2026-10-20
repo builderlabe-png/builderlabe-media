@@ -1,0 +1,9 @@
+{"id":"d21a-keyword-field","slides":[
+ {"kicker":"App Store","h1":"You get 100 characters of keywords. <em>Don't waste them.</em>","lead":"The hidden field in App Store Connect that decides what you show up for.","foot":"ASO basics"},
+ {"kicker":"01 · No repeats","h2":"Skip words already in your <em>name and subtitle.</em>","lead":"They already count. Repeating them burns space for nothing."},
+ {"kicker":"02 · Commas","h2":"Commas only. <em>No spaces.</em>","lead":"Every space is a character you could have used for a real word."},
+ {"kicker":"03 · Real words","h2":"Use the words <em>people actually type.</em>","lead":"Not your feature names. The plain words someone uses when the problem hits."},
+ {"kicker":"04 · Go local","h2":"Local app? <em>Use local words.</em>","lead":"Areas, cities, the way people there describe the problem."},
+ {"kicker":"05 · Iterate","h2":"Change them with <em>every update.</em>","lead":"Each new version is a chance to test a better set."},
+ {"theme":"dark","kicker":"The rule","h2":"Features get you approved. <em>Keywords get you found.</em>","lead":"Spend ten minutes on this field before you submit.","cta":"Follow @builderlabe →"}
+]}
